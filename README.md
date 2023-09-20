@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/pawan-kumar-8a439b196/" target="_blank"> Pawan Shroff </a></h1>
-<h3 align="center">A Passionate <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Front+end+Developer+%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Front+end+Developer+%3A)" /> </h3>
 <img align="right" alt="coading" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 Learning Never Stops 🚀
